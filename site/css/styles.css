@@ -1,0 +1,113 @@
+body{
+  text-align: center;
+ font-family: 'Merriweather', serif;
+
+
+}
+
+.top-container{
+  background-color: #E4F9F5  ;
+  position: relative;
+  padding: 100px;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+}
+h2{
+  font-style: oblique;
+  font-size: 3rem;
+  width:30%;
+}
+.tcloud{
+  position: absolute;
+  top:80px;
+  right: 0;
+}
+.bcloud {
+  position: absolute;
+  left: 0;
+  bottom: 300px;
+}
+.Lmountain{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.Rmountain{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+    font-family: 'Sacramento',cursive;
+    font-size: 2rem;
+    top: 20px;
+}
+hr{
+  border: dotted #66BFBF 4px;
+  margin: 100px auto;
+  width: 40%;
+  border-bottom: none;
+}
+
+.skill-rows{
+  width: 60%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+}
+.profile2{
+    width: 150px;
+  float:left;
+  border-radius: 100%;
+margin-top: -15px;
+margin-right: 40px;
+}
+.pinfo{
+margin-top: 20px;
+margin-right: 40px;
+
+}
+.hinfo{
+margin-left: 270px;
+  color:#66BFBF;
+  text-shadow: 5px 5px 10px black;
+}
+h3{
+  color:#66BFBF;
+  font-size: 2rem;
+}
+div{
+  align-items: center;
+}
+.btn {
+padding: 10px 20px 10px 20px;
+border-radius: 8px;
+color:#ffffff;
+background-image: linear-gradient(tobottom,#11cdd4, #11999e);
+font-size: 20px;
+font-family: 'Montserrat',sans-serif;
+background: #11cdd4;
+text-decoration: none;
+}
+.heading3{
+  margin-top: 20px;
+  margin-left: 270px;
+    margin-bottom: 10px;
+      text-shadow: 5px 5px 10px black;
+    color: #1e836c;
+text-align: center;
+font-size: 3.8em;
+font-weight: 400;
+}
+.btn:hover{
+  background-color:black;
+  color:#ffffff;
+}
